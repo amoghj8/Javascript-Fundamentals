@@ -16,6 +16,6 @@ hi('JS');
 
 // IIFE
 
-(function IIFE() {
+(function () {
     console.log('This is done through IIFE')
 })();
